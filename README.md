@@ -1,27 +1,61 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">🌟 Learning Journey: Full Stack Burger Enthusiast 🍔</h1>
+<h1 align="center">Cybersecure Architect & Developer </h1>
 
 <!-- PROJECT DESCRIPTION -->
 <p align="center">
-  Welcome to my GitHub repository, where I document my quest to become a Full Stack Burger enthusiast while pursuing a career in Cybersecurity and Data Analysis.
-</p>
+  Welcome to my Secret Archives.
+</p
+<!-- PROJECTS -->
+## PROJECTS
+I'm constantly whipping up projects to hone my skills. Here are a few highlights:
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-- [About Me](#about-me)
-- [Learning Path](#learning-path)
-- [Programming Languages](#programming-languages)
-- [Projects](#projects)
-- [Contact](#contact)
+1. 🍔 **Burger Builder Web App**
+   - [Link to Repository](link_to_repository_here)
+   - Description: A web application for building and customizing mouthwatering digital burgers.
+     COMMING SOON ILL PUT IT WHEN ITS TIME
 
-<!-- ABOUT ME -->
-## About Me
+2. 🔐 **Cybersecurity Dashboard**
+   - [Link to Repository](link_to_repository_here)
+   - Description: A dashboard for monitoring cybersecurity activities and threats
+      COMMING SOON ILL PUT IT WHEN ITS TIME
+     
+3. 📊 **Data Analysis Toolkit**
+   - [Link to Repository](link_to_repository_here)
+   - Description: A collection of data analysis scripts and tools to extract actionable insights.
+      COMMING SOON ILL PUT IT WHEN ITS TIME
+     
+##CLIENT PROJECTS
+I'm constantly whipping up projects to hone my skills. Here are a few highlights:
 
-Hey there! I'm Matthew R., a lifelong learner on a mission to master the art of making digital burgers 🍔 and dive into the captivating realms of Cybersecurity and Data Analysis.
+1. 🍔 **Burger Builder Web App**
+   - [Link to Repository](link_to_repository_here)
+   - Description: A web application for building and customizing mouthwatering digital burgers.
+     COMMING SOON ILL PUT IT WHEN ITS TIME
 
-- 🌐 Exploring a world of languages and technologies.
-- 🔐 Aspiring to be a guardian of digital fortresses.
-- 📊 Excited to unearth insights hidden in data.
+2. 🔐 **Cybersecurity Dashboard**
+   - [Link to Repository](link_to_repository_here)
+   - Description: A dashboard for monitoring cybersecurity activities and threats
+      COMMING SOON ILL PUT IT WHEN ITS TIME
+     
+3. 📊 **Data Analysis Toolkit**
+   - [Link to Repository](link_to_repository_here)
+   - Description: A collection of data analysis scripts and tools to extract actionable insights.
+      COMMING SOON ILL PUT IT WHEN ITS TIME
+     
+<!-- PROGRAMMING LANGUAGES -->
+## Programming Languages
+I speak the language of technology! Here are the programming languages I'm fluent and still learning in:
+
+* ☕ Java                                                    
+* 🐍 Python                                                     
+* 🌐 HTML, JavaScript, CSS                                      
+* 💎 Ruby                                                      
+* 🧩 Node.js                                                    
+* 📊 Seaborn and Pandas
+* 🐚 Bash
+* 🤖 Arduino
+* 🌲 Git
+* 🐧 Linux
 
 <!-- LEARNING PATH -->
 ## Learning Path
@@ -39,45 +73,6 @@ I believe in continuous learning, and I'm thrilled to share my journey with you.
    - Data manipulation and visualization with Python, Pandas, and Seaborn.
    - Exploring machine learning and predictive analytics.
 
-<!-- PROGRAMMING LANGUAGES -->
-## Programming Languages
-I speak the language of technology! Here are the programming languages I'm fluent and still learning in:
-
-* ☕ Java                                                    
-* 🐍 Python                                                     
-* 🌐 HTML, JavaScript, CSS                                      
-* 💎 Ruby                                                      
-* 🧩 Node.js                                                    
-* 📊 Seaborn and Pandas
-* 🐚 Bash
-* 🤖 Arduino
-* 🌲 Git
-* 🐧 Linux
-
-##Still Learning:
-- 🌈 C#
-- ⚛️ React
-- 🍃 Kafka
-- 🦋 Nest.js
-- 🌿 Flask
-<!-- PROJECTS -->
-## Projects
-I'm constantly whipping up projects to hone my skills. Here are a few highlights:
-
-1. 🍔 **Burger Builder Web App**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A web application for building and customizing mouthwatering digital burgers.
-     COMMING SOON ILL PUT IT WHEN ITS TIME
-
-2. 🔐 **Cybersecurity Dashboard**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A dashboard for monitoring cybersecurity activities and threats
-      COMMING SOON ILL PUT IT WHEN ITS TIME
-     
-3. 📊 **Data Analysis Toolkit**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A collection of data analysis scripts and tools to extract actionable insights.
-      COMMING SOON ILL PUT IT WHEN ITS TIME
 
 <!-- CONTACT -->
 ## Contact
