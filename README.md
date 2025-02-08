@@ -78,5 +78,5 @@ I believe in continuous learning, and I'm thrilled to share my journey with you.
 ## Contact
 Let's connect and grow together! You can reach out to me here:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/matthew-silvino-988a03228/)
-- Email:matthewsilvino998@gmai.com
+- LinkedIn: [Click The Link](https://www.linkedin.com/in/matthew-silvino-988a03228/)
+
