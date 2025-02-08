@@ -25,7 +25,7 @@ I'm constantly whipping up projects to hone my skills. Here are a few highlights
       COMMING SOON ILL PUT IT WHEN ITS TIME
      
 ##CLIENT PROJECTS
-I'm constantly whipping up projects to hone my skills. Here are a few highlights:
+I'm also doing projects for clients as a Freelance developer and Cybersecurity:
 
 1. 🍔 **Burger Builder Web App**
    - [Link to Repository](link_to_repository_here)
@@ -46,10 +46,10 @@ I'm constantly whipping up projects to hone my skills. Here are a few highlights
 ## Programming Languages
 I speak the language of technology! Here are the programming languages I'm fluent and still learning in:
 
-* ☕ Java                                                    
-* 🐍 Python                                                     
-* 🌐 HTML, JavaScript, CSS                                      
-* 💎 Ruby                                                      
+* 🐍 Python
+* ☕ Java
+* ⚙️ SQL                                                                                                         
+* 🌐 HTML, JavaScript, CSS                                                                                        
 * 🧩 Node.js                                                    
 * 📊 Seaborn and Pandas
 * 🐚 Bash
@@ -78,6 +78,5 @@ I believe in continuous learning, and I'm thrilled to share my journey with you.
 ## Contact
 Let's connect and grow together! You can reach out to me here:
 
-- GitHub: [Your GitHub Profile](link_to_github_profile_here)
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin_profile_here)
-- Email:
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/matthew-silvino-988a03228/)
+- Email:matthewsilvino998@gmai.com
