@@ -14,34 +14,6 @@ I'm constantly whipping up projects to hone my skills. Here are a few highlights
    - Description: VulnTrack is a web-based Vulnerability Management System built using Python, Flask, and PostgreSQL. automates the process of identifying, tracking, and reporting on security vulnerabilities within an organization's IT infrastructure. VulnTrack integrates with vulnerability scanners, manages asset information, generates comprehensive reports, and provides user authentication and authorization. Advanced features could include automated remediation tracking, ticketing system integration, vulnerability prioritization, machine learning for anomaly detection, and a RESTful API. It's a complex project designed to provide a centralized platform for managing cybersecurity risks.
      Check program on this link: 
 
-2. 🔐 **Cybersecurity Dashboard**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A dashboard for monitoring cybersecurity activities and threats
-      COMMING SOON ILL PUT IT WHEN ITS TIME
-     
-3. 📊 **Data Analysis Toolkit**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A collection of data analysis scripts and tools to extract actionable insights.
-      COMMING SOON ILL PUT IT WHEN ITS TIME
-     
-##CLIENT PROJECTS
-I'm also doing projects for clients as a Freelance developer and Cybersecurity:
-
-1. 🍔 **Burger Builder Web App**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A web application for building and customizing mouthwatering digital burgers.
-     COMMING SOON ILL PUT IT WHEN ITS TIME
-
-2. 🔐 **Cybersecurity Dashboard**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A dashboard for monitoring cybersecurity activities and threats
-      COMMING SOON ILL PUT IT WHEN ITS TIME
-     
-3. 📊 **Data Analysis Toolkit**
-   - [Link to Repository](link_to_repository_here)
-   - Description: A collection of data analysis scripts and tools to extract actionable insights.
-      COMMING SOON ILL PUT IT WHEN ITS TIME
-     
 <!-- PROGRAMMING LANGUAGES -->
 ## Programming Languages
 I speak the language of technology! Here are the programming languages I'm fluent and still learning in:
