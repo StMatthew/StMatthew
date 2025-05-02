@@ -3,7 +3,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 <p align="center">
-  Welcome to my Secret Archives.
+  Welcome to my Secret Archives WHEREEE ITS NEEDED TO BE.
 </p
 <!-- PROJECTS -->
 ## PROJECTS
