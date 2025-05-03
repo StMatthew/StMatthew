@@ -12,7 +12,7 @@ I'm constantly whipping up projects to hone my skills. Here are a few highlights
 1. **VulnTrack - A Vulnerability Management System**
    - [Link to Repository](link_to_repository_here)
    - Description: VulnTrack is a web-based Vulnerability Management System built using Python, Flask, and PostgreSQL. automates the process of identifying, tracking, and reporting on security vulnerabilities within an organization's IT infrastructure. VulnTrack integrates with vulnerability scanners, manages asset information, generates comprehensive reports, and provides user authentication and authorization. Advanced features could include automated remediation tracking, ticketing system integration, vulnerability prioritization, machine learning for anomaly detection, and a RESTful API. It's a complex project designed to provide a centralized platform for managing cybersecurity risks.
-     Check program on this link: 
+
 
 <!-- PROGRAMMING LANGUAGES -->
 ## Programming Languages
@@ -25,8 +25,10 @@ I speak the language of technology! Here are the programming languages I'm fluen
 * 🧩 Node.js                                                    
 * 📊 Seaborn and Pandas
 * 🐚 Bash
-* 🤖 Arduino
+* 🤖 Arduino&Raspbery pi
 * 🌲 Git
+* 🟢 GO
+* 🐧 Ubuntu
 * 🐧 Linux
 
 <!-- LEARNING PATH -->
