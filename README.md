@@ -47,7 +47,9 @@ I believe in continuous learning, and I'm thrilled to share my journey with you.
    - Data manipulation and visualization with Python, Pandas, and Seaborn.
    - Exploring machine learning and predictive analytics.
 
-
+<!-- LEARNING PATH -->
+Representing tangible proof of my dedication and skill mastery, my credits and certifications underscore my readiness to excel in demanding international opportunities.
+ [Link to Repository](https://github.com/StMatthew/Certificates-and-Credibility-of-Matthew-Reniva)
 <!-- CONTACT -->
 ## Contact
 Let's connect and grow together! You can reach out to me here:
