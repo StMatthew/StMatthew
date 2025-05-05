@@ -18,7 +18,7 @@ I'm constantly whipping up projects to hone my skills. Here are a few highlights
 ## Programming Languages
 I speak the language of technology! Here are the programming languages I'm fluent and still learning in:
 
-* 🐍 Python
+* 🐍 Python&Flask
 * ☕ Java
 * ⚙️ SQL                                                                                                         
 * 🌐 HTML, JavaScript, CSS                                                                                        
