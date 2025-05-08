@@ -76,7 +76,7 @@ I believe in continuous learning, and I'm thrilled to share my journey with you.
 
 2. 🔒 **Cybersecurity**
    - Ethical hacking techniques and cybersecurity best practices.
-   - Penetration testing and vulnerability assessment.
+   - Penetration testing and vulnerability assessment. still updating
 
 3. 📈 **Data Analysis**
    - Data manipulation and visualization with Python, Pandas, and Seaborn.
