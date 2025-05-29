@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">Cybersecure Architect & Developer </h1>
+<h1 align="center">Cybersecure Architect & Developer(THE BLUE MAGE) </h1>
 
 <!-- PROJECT DESCRIPTION -->
 <p align="center">
