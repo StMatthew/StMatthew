@@ -1,93 +1,167 @@
-<!-- PROJECT TITLE -->
-<h1 align="center">Cybersecure Architect & Developer(THE BLUE MAGE) </h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">Matthew Reniva</h1>
 
-<!-- PROJECT DESCRIPTION -->
+<h3 align="center">Senior Software Engineer | Java Backend | Generative AI Systems</h3>
+
 <p align="center">
-  Welcome to my Secret Archives WHEREEE ITS NEEDED TO BE, WELCOME
-</p
-<!-- PROJECTS -->
-## PROJECTS
-I'm constantly whipping up projects to hone my skills. Here are a few highlights:
+  Building scalable backend systems and AI-powered applications in enterprise environments.
+</p>
 
-1. **Revibe: Multimodal Affective Personalized Music Recommender (Thesis)**
-   - [Link to Repository](link_to_repository_here)
-   - Description: Developed server-side logic for "Revibe," a web application providing personalized music recommendations based on multimodal affective data. Integrated machine learning and AI algorithms, including Convolutional Neural Networks (CNNs), for user input processing and tailored recommendations. Ensured application functionality, scalability, and data management efficiency.
-     
-1. **VulnTrack - A Vulnerability Management System**
-   - [Link to Repository](link_to_repository_here)
-   - Description: VulnTrack is a web-based Vulnerability Management System built using Python, Flask, and PostgreSQL. automates the process of identifying, tracking, and reporting on security vulnerabilities within an organization's IT infrastructure. VulnTrack integrates with vulnerability scanners, manages asset information, generates comprehensive reports, and provides user authentication and authorization. Advanced features could include automated remediation tracking, ticketing system integration, vulnerability prioritization, machine learning for anomaly detection, and a RESTful API. It's a complex project designed to provide a centralized platform for managing cybersecurity risks.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-silvino-988a03228/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/StMatthew" target="_blank">GitHub</a> •
+  <a href="https://github.com/StMatthew/Certificates-and-Credibility-of-Matthew-Reniva/tree/master/Certificates" target="_blank">Certifications</a>
+</p>
 
-1. **ATTENTION-CNN MODEL FOR CLASSIFYING SYNTHETIC IMAGES USING THE CIFAKE DATASET: IMAGE CLASSIFICATION OF AI-GENERATED SYNTHETIC IMAGES**
-   - [Link to Repository](link_to_repository_here)
-   - Description: Our project focused on making a computer program better at telling the difference between real photos and fake ones made by AI. We took an existing program and changed it to make it much more accurate. Now, it can correctly identify fake images about 95% of the time, which is a big improvement from its original 70% accuracy.
-With AI now able to create very convincing fake images quickly (Khadatkar, 2024), our work is important for spotting these fakes. 1 Our research paper explains how we made these improvements using a special kind of computer learning. This work can help address the challenges that come with the rise of AI-generated images.
+---
 
-1. **VulnTrack - A Vulnerability Management System**
-   - [Link to Repository](link_to_repository_here)
-   - Description: VulnTrack is a web-based Vulnerability Management System built using Python, Flask, and PostgreSQL. automates the process of identifying, tracking, and reporting on security vulnerabilities within an organization's IT infrastructure. VulnTrack integrates with vulnerability scanners, manages asset information, generates comprehensive reports, and provides user authentication and authorization. Advanced features could include automated remediation tracking, ticketing system integration, vulnerability prioritization, machine learning for anomaly detection, and a RESTful API. It's a complex project designed to provide a centralized platform for managing cybersecurity risks.
+## 🚀 About Me
 
-1. **Automated Defective Product Detection System on a Production Line**
-   - [Link to Repository](link_to_repository_here)
-   - Description: Developed a deep learning model for real-time image analysis to identify and flag defective products on a production line. Automated quality control processes to minimize manual inspection.
+I am a Senior Software Engineer focused on backend engineering, full-stack development, and Generative AI systems.
 
-1. **Personalized Recipe Recommendation App Base on Dietary Restrictions and Preferences**
-   - [Link to Repository](link_to_repository_here)
-   - Description: Designed an application providing tailored recipe suggestions based on userdefined allergies, dietary restrictions (vegetarian, vegam, gluten-free), and cuisine
-preferences.
+My current work involves building and supporting enterprise-grade applications using Java, JSON, APIs, and modern development workflows. I work across the full software development lifecycle — from development and testing to deployment — with a strong focus on reliability, scalability, and maintainable system design.
 
-1. **Automated Web Application Security Scanner for Common Vulnerabilities**
-   - [Link to Repository](link_to_repository_here)
-   - Description: Designed a tool for pre-deployment website security assessments. Automated probing for vulnerabilities, including SQL Injection and Cross-Site Scripting. Generated reports detailing security flaws for developer remediation, similar to vulnerability scanners used in security audits.
+I am currently sharpening my edge in:
+- Java backend engineering
+- API architecture and JSON-based integrations
+- Generative AI applications and intelligent workflows
+- Full SDLC delivery in enterprise environments
 
-1. **Real-time Network Traffic Anomaly Detector**
-   - [Link to Repository](link_to_repository_here)
-   - Description:Developed a lightweight background program for real-time network traffic analysis, identifying anomalies such as data spikes, suspicious IP connections,
-and protocol irregularities.
+---
 
-1. **Smart Inventory Management System for a Small Business**
-   - [Link to Repository](link_to_repository_here)
-   - Description:Developed a web application for efficient product management, including inventory tracking, low-stock alerts, and sales report generation. Enabled small businesses to optimize stock levels, helping them to avoid running out of fast-moving items and not overstock on slow-moving ones.
+## ⚙️ What I Do
 
+- Develop backend systems using **Java** and **REST APIs**
+- Work on **full SDLC**: Development → Testing → Deployment
+- Build and improve **enterprise-grade applications**
+- Integrate **Generative AI** into practical software solutions
+- Design scalable and maintainable systems for real-world use
 
-<!-- PROGRAMMING LANGUAGES -->
-## Programming Languages
-I speak the language of technology! Here are the programming languages I'm fluent and still learning in:
+---
 
-* 🐍 Python&Flask
-* ☕ Java
-* ⚙️ SQL                                                                                                         
-* 🌐 HTML, JavaScript, CSS                                                                                        
-* 🧩 Node.js                                                    
-* 📊 Seaborn and Pandas
-* 🐚 Bash
-* 🤖 Arduino&Raspbery pi
-* 🌲 Git
-* 🟢 GO
-* 🐧 Ubuntu
-* 🐧 Linux
+## 🧠 Current Focus
 
-<!-- LEARNING PATH -->
-## Learning Path
-I believe in continuous learning, and I'm thrilled to share my journey with you. Here's what I'm currently immersed in:
+- Generative AI and LLM-powered applications
+- Java backend development and system design
+- API integration and JSON-based services
+- Scalable enterprise software engineering
 
-1. 🚀 **Full Stack Development**
-   - Front-End Technologies (HTML, CSS, JavaScript, React)
-   - Back-End Technologies (Node.js, Express, Ruby on Rails)
+---
 
-2. 🔒 **Cybersecurity**
-   - Ethical hacking techniques and cybersecurity best practices.
-   - Penetration testing and vulnerability assessment. still updating
+## 📌 Featured Projects
 
-3. 📈 **Data Analysis**
-   - Data manipulation and visualization with Python, Pandas, and Seaborn.
-   - Exploring machine learning and predictive analytics.
+### 1. Revibe: Multimodal Affective Personalized Music Recommender (Thesis)
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Developed server-side logic for a web application that delivers personalized music recommendations based on multimodal affective data.
+- Integrated machine learning and AI techniques, including CNN-based processing, to improve personalization and recommendation quality.
+- Focused on application functionality, scalability, and efficient data handling.
 
-<!-- LEARNING PATH -->
-Representing tangible proof of my dedication and skill mastery, my credits and certifications underscore my readiness to excel in demanding international opportunities.
- [Link to Repository](https://github.com/StMatthew/Certificates-and-Credibility-of-Matthew-Reniva/tree/master/Certificates)
-<!-- CONTACT -->
-## Contact
-Let's connect and grow together! You can reach out to me here:
+### 2. VulnTrack - Vulnerability Management System
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Built a web-based vulnerability management system using **Python, Flask, and PostgreSQL**.
+- Designed to help identify, track, and report security vulnerabilities across an organization’s IT environment.
+- Includes asset management, reporting, user authentication, and a foundation for future integrations such as ticketing, remediation tracking, prioritization, and REST APIs.
 
-- LinkedIn: [Click The Link](https://www.linkedin.com/in/matthew-silvino-988a03228/)
+### 3. Attention-CNN Model for Classifying Synthetic Images Using the CIFAKE Dataset
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Improved an image classification model for detecting AI-generated synthetic images.
+- Increased detection accuracy from approximately **70% to 95%** through model enhancement and attention-based learning.
+- Built as a research-driven project to address the growing challenge of realistic AI-generated content.
 
+### 4. Automated Defective Product Detection System on a Production Line
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Developed a deep learning solution for real-time product inspection on production lines.
+- Automated defect detection to reduce manual quality control effort and improve consistency.
+
+### 5. Automated Web Application Security Scanner for Common Vulnerabilities
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Created a tool for pre-deployment web security assessments.
+- Automated testing for common vulnerabilities such as **SQL Injection** and **Cross-Site Scripting (XSS)**.
+- Generated actionable reports to support remediation and secure development.
+
+### 6. Real-Time Network Traffic Anomaly Detector
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Developed a lightweight real-time network monitoring solution.
+- Detects unusual traffic spikes, suspicious IP connections, and protocol irregularities that may indicate threats or abnormal behavior.
+
+### 7. Smart Inventory Management System for a Small Business
+- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
+- Built a web application for product tracking, stock monitoring, low-stock alerts, and sales reporting.
+- Designed to help businesses improve inventory decisions and reduce overstocking or stock shortages.
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+- Java
+- Python
+- Flask
+- Node.js
+
+### APIs & Data
+- REST APIs
+- JSON
+- SQL
+- PostgreSQL
+- MySQL
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+
+### AI / Data
+- Machine Learning
+- CNN
+- Pandas
+- Seaborn
+- Generative AI (currently deepening expertise)
+
+### Tools & Environment
+- Git
+- Bash
+- Linux
+- Ubuntu
+- Arduino
+- Raspberry Pi
+
+---
+
+## 📚 Learning & Specialization
+
+### 🚀 Backend Engineering
+- Java backend development
+- API design and architecture
+- Scalable system design
+- Enterprise software workflows
+
+### 🤖 Generative AI
+- LLM integrations
+- AI-assisted workflows
+- Intelligent application features
+- Practical AI system development
+
+### 🔒 Cybersecurity
+- Vulnerability assessment
+- Security tooling
+- Web application scanning
+- Defensive systems and monitoring
+
+---
+
+## 📈 Certifications & Credibility
+
+Representing tangible proof of my dedication to continuous growth, my certifications and learning records reflect my readiness for high-impact engineering opportunities.
+
+<a href="https://github.com/StMatthew/Certificates-and-Credibility-of-Matthew-Reniva/tree/master/Certificates" target="_blank">View Certifications</a>
+
+---
+
+## 📬 Contact
+
+Let’s connect and build meaningful systems.
+
+- LinkedIn: <a href="https://www.linkedin.com/in/matthew-silvino-988a03228/" target="_blank">Matthew Reniva</a>
+- GitHub: <a href="https://github.com/StMatthew" target="_blank">@StMatthew</a>
