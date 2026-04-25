@@ -50,44 +50,6 @@ I am currently sharpening my edge in:
 
 ## 📌 Featured Projects
 
-### 1. Revibe: Multimodal Affective Personalized Music Recommender (Thesis)
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Developed server-side logic for a web application that delivers personalized music recommendations based on multimodal affective data.
-- Integrated machine learning and AI techniques, including CNN-based processing, to improve personalization and recommendation quality.
-- Focused on application functionality, scalability, and efficient data handling.
-
-### 2. VulnTrack - Vulnerability Management System
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Built a web-based vulnerability management system using **Python, Flask, and PostgreSQL**.
-- Designed to help identify, track, and report security vulnerabilities across an organization’s IT environment.
-- Includes asset management, reporting, user authentication, and a foundation for future integrations such as ticketing, remediation tracking, prioritization, and REST APIs.
-
-### 3. Attention-CNN Model for Classifying Synthetic Images Using the CIFAKE Dataset
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Improved an image classification model for detecting AI-generated synthetic images.
-- Increased detection accuracy from approximately **70% to 95%** through model enhancement and attention-based learning.
-- Built as a research-driven project to address the growing challenge of realistic AI-generated content.
-
-### 4. Automated Defective Product Detection System on a Production Line
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Developed a deep learning solution for real-time product inspection on production lines.
-- Automated defect detection to reduce manual quality control effort and improve consistency.
-
-### 5. Automated Web Application Security Scanner for Common Vulnerabilities
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Created a tool for pre-deployment web security assessments.
-- Automated testing for common vulnerabilities such as **SQL Injection** and **Cross-Site Scripting (XSS)**.
-- Generated actionable reports to support remediation and secure development.
-
-### 6. Real-Time Network Traffic Anomaly Detector
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Developed a lightweight real-time network monitoring solution.
-- Detects unusual traffic spikes, suspicious IP connections, and protocol irregularities that may indicate threats or abnormal behavior.
-
-### 7. Smart Inventory Management System for a Small Business
-- <a href="link_to_repository_here" target="_blank">Link to Repository</a>
-- Built a web application for product tracking, stock monitoring, low-stock alerts, and sales reporting.
-- Designed to help businesses improve inventory decisions and reduce overstocking or stock shortages.
 
 ---
 
